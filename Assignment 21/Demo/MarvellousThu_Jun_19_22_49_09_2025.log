@@ -1,0 +1,570 @@
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 0, 'name': 'System Idle Process'} 
+
+{'username': 'NT AUTHORITY\\SYSTEM', 'pid': 4, 'name': 'System'} 
+
+{'username': None, 'pid': 236, 'name': ''} 
+
+{'username': None, 'pid': 280, 'name': 'Registry'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 376, 'name': 'mc-extn-browserhost.exe'} 
+
+{'username': None, 'pid': 444, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 448, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 600, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 816, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 848, 'name': 'smss.exe'} 
+
+{'username': None, 'pid': 968, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 1104, 'name': 'csrss.exe'} 
+
+{'username': None, 'pid': 1212, 'name': 'wininit.exe'} 
+
+{'username': None, 'pid': 1284, 'name': 'services.exe'} 
+
+{'username': None, 'pid': 1304, 'name': 'LsaIso.exe'} 
+
+{'username': None, 'pid': 1312, 'name': 'lsass.exe'} 
+
+{'username': None, 'pid': 1372, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 1440, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 1472, 'name': 'fontdrvhost.exe'} 
+
+{'username': None, 'pid': 1480, 'name': 'WUDFHost.exe'} 
+
+{'username': None, 'pid': 1552, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 1572, 'name': 'StartMenuExperienceHost.exe'} 
+
+{'username': None, 'pid': 1616, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 1656, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 1736, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 1824, 'name': 'WUDFHost.exe'} 
+
+{'username': None, 'pid': 1832, 'name': 'RtkAudUService64.exe'} 
+
+{'username': None, 'pid': 1916, 'name': 'SecurityHealthService.exe'} 
+
+{'username': None, 'pid': 1964, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 1984, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2012, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2036, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 2100, 'name': 'chrome.exe'} 
+
+{'username': None, 'pid': 2180, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2208, 'name': 'ELANFPService.exe'} 
+
+{'username': None, 'pid': 2220, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2232, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2248, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2264, 'name': 'WUDFHost.exe'} 
+
+{'username': None, 'pid': 2272, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2404, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2516, 'name': 'IntelCpHDCPSvc.exe'} 
+
+{'username': None, 'pid': 2552, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2584, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2604, 'name': 'dllhost.exe'} 
+
+{'username': None, 'pid': 2628, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2664, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2832, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 2848, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 3048, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 3200, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 3356, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 3364, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 3440, 'name': 'NVDisplay.Container.exe'} 
+
+{'username': None, 'pid': 3524, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 3580, 'name': 'AsusSoftwareManager.exe'} 
+
+{'username': None, 'pid': 3592, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 3600, 'name': 'TrustedInstaller.exe'} 
+
+{'username': None, 'pid': 3612, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 3620, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 3664, 'name': 'taskhostw.exe'} 
+
+{'username': None, 'pid': 3724, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 3752, 'name': 'MemCompression'} 
+
+{'username': None, 'pid': 3828, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 3892, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 3908, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 4020, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 4060, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 4108, 'name': 'AsusAppService.exe'} 
+
+{'username': None, 'pid': 4164, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 4192, 'name': 'AsusOptimization.exe'} 
+
+{'username': None, 'pid': 4200, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 4252, 'name': 'AsusSystemDiagnosis.exe'} 
+
+{'username': None, 'pid': 4392, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 4480, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 4504, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 4576, 'name': 'spoolsv.exe'} 
+
+{'username': None, 'pid': 4680, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 4724, 'name': 'AsusSystemAnalysis.exe'} 
+
+{'username': None, 'pid': 4748, 'name': 'AsusProArtUpdateService.exe'} 
+
+{'username': None, 'pid': 4796, 'name': 'GlideXRemoteService.exe'} 
+
+{'username': None, 'pid': 4860, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 4904, 'name': 'WmiPrvSE.exe'} 
+
+{'username': None, 'pid': 4920, 'name': 'GlideXNearService.exe'} 
+
+{'username': None, 'pid': 4928, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 5068, 'name': 'NgcIso.exe'} 
+
+{'username': None, 'pid': 5124, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 5132, 'name': 'AsusProArtService.exe'} 
+
+{'username': None, 'pid': 5140, 'name': 'AsusScreenXpertHostService.exe'} 
+
+{'username': None, 'pid': 5156, 'name': 'AsusSwitch.exe'} 
+
+{'username': None, 'pid': 5164, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 5176, 'name': 'ipfsvc.exe'} 
+
+{'username': None, 'pid': 5216, 'name': 'GlideXServiceExt.exe'} 
+
+{'username': None, 'pid': 5232, 'name': 'GlideXService.exe'} 
+
+{'username': None, 'pid': 5348, 'name': 'IntelAudioService.exe'} 
+
+{'username': None, 'pid': 5372, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 5456, 'name': 'unsecapp.exe'} 
+
+{'username': None, 'pid': 5460, 'name': 'jhi_service.exe'} 
+
+{'username': None, 'pid': 5516, 'name': 'ipf_uf.exe'} 
+
+{'username': None, 'pid': 5604, 'name': 'OneApp.IGCC.WinService.exe'} 
+
+{'username': None, 'pid': 5748, 'name': 'RstMwService.exe'} 
+
+{'username': None, 'pid': 5752, 'name': 'RtkAudUService64.exe'} 
+
+{'username': None, 'pid': 5828, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 5840, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 5860, 'name': 'WMIRegistrationService.exe'} 
+
+{'username': None, 'pid': 5872, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 5888, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 6220, 'name': 'SystemSettings.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 6836, 'name': 'powershell.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 7772, 'name': 'powershell.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 7908, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 7944, 'name': 'msedgewebview2.exe'} 
+
+{'username': None, 'pid': 8200, 'name': 'DismHost.exe'} 
+
+{'username': None, 'pid': 8244, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 8452, 'name': 'ctfmon.exe'} 
+
+{'username': None, 'pid': 8900, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 8968, 'name': 'AggregatorHost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 9140, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 9256, 'name': 'TiWorker.exe'} 
+
+{'username': None, 'pid': 9288, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 9452, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 9496, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 9672, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 9688, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 9840, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 10560, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 10784, 'name': 'WaaSMedicAgent.exe'} 
+
+{'username': None, 'pid': 10808, 'name': 'dasHost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 10832, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 11072, 'name': 'OpenConsole.exe'} 
+
+{'username': None, 'pid': 11172, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 11388, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 11436, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 11444, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 11668, 'name': 'Widgets.exe'} 
+
+{'username': None, 'pid': 11860, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 11940, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 12600, 'name': 'backgroundTaskHost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 12712, 'name': 'FileCoAuth.exe'} 
+
+{'username': None, 'pid': 12896, 'name': 'WmiPrvSE.exe'} 
+
+{'username': None, 'pid': 13036, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 13052, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 13136, 'name': 'CompatTelRunner.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 13232, 'name': 'chrome.exe'} 
+
+{'username': None, 'pid': 13408, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 13628, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 13860, 'name': 'powershell.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 14348, 'name': 'conhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 14804, 'name': 'RuntimeBroker.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 14912, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 15412, 'name': 'chrome.exe'} 
+
+{'username': None, 'pid': 15480, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 15992, 'name': 'MoUsoCoreWorker.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 16048, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 16228, 'name': 'conhost.exe'} 
+
+{'username': None, 'pid': 16288, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 16328, 'name': 'ShellExperienceHost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 16396, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 16768, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 17300, 'name': 'BioIso.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 18320, 'name': 'TextInputHost.exe'} 
+
+{'username': None, 'pid': 19876, 'name': 'dasHost.exe'} 
+
+{'username': None, 'pid': 20096, 'name': 'MpDefenderCoreService.exe'} 
+
+{'username': None, 'pid': 20288, 'name': 'winlogon.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 21604, 'name': 'ipf_helper.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 21608, 'name': 'chrome.exe'} 
+
+{'username': None, 'pid': 21792, 'name': 'mc-fw-host.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 22424, 'name': 'conhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 23024, 'name': 'Code.exe'} 
+
+{'username': None, 'pid': 23388, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 23464, 'name': 'RtkAudUService64.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 23788, 'name': 'chrome.exe'} 
+
+{'username': None, 'pid': 24840, 'name': 'audiodg.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 24848, 'name': 'Code.exe'} 
+
+{'username': None, 'pid': 25248, 'name': 'Intel_PIE_Service.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 25336, 'name': 'uihost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 25844, 'name': 'AsusSoftwareManagerAgent.exe'} 
+
+{'username': None, 'pid': 26024, 'name': 'UsoClient.exe'} 
+
+{'username': None, 'pid': 26736, 'name': 'conhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 26744, 'name': 'backgroundTaskHost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 26948, 'name': 'msedgewebview2.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 27312, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 27388, 'name': 'AsusOptimizationStartupTask.exe'} 
+
+{'username': None, 'pid': 27464, 'name': 'SearchIndexer.exe'} 
+
+{'username': None, 'pid': 27612, 'name': 'WUDFHost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 27856, 'name': 'Code.exe'} 
+
+{'username': None, 'pid': 28148, 'name': 'mc-neo-host.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 28704, 'name': 'msedgewebview2.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 28784, 'name': 'RuntimeBroker.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 28948, 'name': 'RuntimeBroker.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 29104, 'name': 'Code.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 29668, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 30088, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 30180, 'name': 'RuntimeBroker.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 30468, 'name': 'Code.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 31092, 'name': 'SearchHost.exe'} 
+
+{'username': None, 'pid': 31376, 'name': 'svchost.exe'} 
+
+{'username': None, 'pid': 31532, 'name': 'mc-sustainability.exe'} 
+
+{'username': None, 'pid': 31612, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 31716, 'name': 'conhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 31776, 'name': 'RuntimeBroker.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 31876, 'name': 'RuntimeBroker.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 32452, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 32500, 'name': 'msedgewebview2.exe'} 
+
+{'username': None, 'pid': 32536, 'name': 'MsMpEng.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 32828, 'name': 'conhost.exe'} 
+
+{'username': None, 'pid': 33532, 'name': 'wlanext.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 33728, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 34068, 'name': 'browserhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 34160, 'name': 'msedgewebview2.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 34336, 'name': 'powershell.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 34724, 'name': 'python.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 34888, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 34988, 'name': 'chrome.exe'} 
+
+{'username': None, 'pid': 35384, 'name': 'OfficeClickToRun.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 35592, 'name': 'RuntimeBroker.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 35696, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 35716, 'name': 'chrome.exe'} 
+
+{'username': None, 'pid': 35824, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 36212, 'name': 'taskhostw.exe'} 
+
+{'username': None, 'pid': 36400, 'name': 'SearchProtocolHost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 36552, 'name': 'cmd.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 36652, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 36796, 'name': 'pet.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 36940, 'name': 'sihost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 37148, 'name': 'msedgewebview2.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 37512, 'name': 'Code.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 37904, 'name': 'msedgewebview2.exe'} 
+
+{'username': None, 'pid': 38044, 'name': 'NVDisplay.Container.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 38060, 'name': 'ApplicationFrameHost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 38152, 'name': 'mc-fw-host.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 38376, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 39112, 'name': 'conhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 39200, 'name': 'WidgetService.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 39320, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 39392, 'name': 'powershell.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 39396, 'name': 'powershell.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 39520, 'name': 'cmd.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 39760, 'name': 'AsusOSD.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 39984, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 40272, 'name': 'msedgewebview2.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 40292, 'name': 'powershell.exe'} 
+
+{'username': None, 'pid': 40636, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 40660, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 40704, 'name': 'conhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 40924, 'name': 'backgroundTaskHost.exe'} 
+
+{'username': None, 'pid': 41296, 'name': 'mc-sustainability.exe'} 
+
+{'username': None, 'pid': 41316, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 41368, 'name': 'msedgewebview2.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 41492, 'name': 'msedgewebview2.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 41576, 'name': 'SecurityHealthSystray.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 42100, 'name': 'dllhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 42108, 'name': 'explorer.exe'} 
+
+{'username': None, 'pid': 42468, 'name': 'fontdrvhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 42520, 'name': 'Code.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 42700, 'name': 'Code.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 43144, 'name': 'Code.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 43424, 'name': 'msedgewebview2.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 43436, 'name': 'ShellHost.exe'} 
+
+{'username': None, 'pid': 43464, 'name': 'AsusScreenXpertUI.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 43468, 'name': 'msedgewebview2.exe'} 
+
+{'username': None, 'pid': 43512, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 43628, 'name': 'dllhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 43792, 'name': 'conhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 43852, 'name': 'backgroundTaskHost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 43904, 'name': 'AsusSystemAnalysis.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 43912, 'name': 'conhost.exe'} 
+
+{'username': None, 'pid': 43988, 'name': 'servicehost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 44036, 'name': 'conhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 44096, 'name': 'LockApp.exe'} 
+
+{'username': None, 'pid': 44196, 'name': 'dwm.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 44420, 'name': 'msedgewebview2.exe'} 
+
+{'username': None, 'pid': 44496, 'name': 'csrss.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 44548, 'name': 'conhost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 44556, 'name': 'RuntimeBroker.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 44988, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 45036, 'name': 'Code.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 45076, 'name': 'AsusProArtHost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 45104, 'name': 'cmd.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 45208, 'name': 'svchost.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 45268, 'name': 'OneDrive.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 45548, 'name': 'UserOOBEBroker.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 45808, 'name': 'WindowsTerminal.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 45816, 'name': 'chrome.exe'} 
+
+{'username': 'SAHIL\\sahil', 'pid': 45884, 'name': 'svchost.exe'} 
+
