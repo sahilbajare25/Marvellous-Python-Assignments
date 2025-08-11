@@ -1,0 +1,95 @@
+Mall Customers Classification using Random Forest and pipeline
+
+This Project Demonstrate Machine Learning Pipeline for predicting Gender(Male vs Female) using Mall Customer Full dataset.
+
+It follows Industrial best practices by:
+Automating Processes with Pipelines
+Using Random Forest Classifier algorithm
+Saving and Loading trained model using joblib
+providing data visualization for more clarity
+
+Dependencies:
+Install required Python packages before running project:
+pip install pandas, numpy, scikit-learn, matplotlib,joblib 
+
+Dataset Information:
+
+Features:
+Customer Id
+Age
+Annual Income
+Spending Score
+
+Target:
+Male
+Female
+
+Workflow:
+
+Data Preparation :
+Load the dataset
+Encode the dataset 
+
+Train-Test Split
+Split the dataset into 80% Training and 20% Testing
+Use Stratify to preserve class balance
+
+Pipeline Construction:
+Use Random Forest Classifiers with 150 estimators for Classification
+
+Model Training and Evaluation:
+Metrics : Accuracy Score, Confusion Matrix, Classification report
+Feature Importance plot : Show most influential features
+
+Model Saving and Loading:
+save model with joblib
+Load model for future predictions without re-training 
+
+
+Running the Project:
+
+Load the data into data frame using pandas
+
+Train and Evaluate Model:
+Training accuracy :  1.0
+
+Test Accuracy : 1.0
+
+Classification report :
+               precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        20
+           1       1.00      1.00      1.00        20
+
+    accuracy                           1.00        40
+   macro avg       1.00      1.00      1.00        40
+weighted avg       1.00      1.00      1.00        40
+
+Visualizations:
+
+Feature Importance(Random Forest)
+Confusion matrix with matplotlib
+
+Model Storage:
+
+Model is saved as mc_rf_pipeline.joblib
+can be loaded any time for prediction without re-training
+
+Model successfully saved on mc_rf_pipeline.joblib
+
+Model successfully loaded from mc_rf_pipeline.joblib
+
+Sample Prediction:
+
+Loaded = load_model(MODEL_PATH)
+    sample = x_test.iloc[[0]]
+    pred_loaded = Loaded.predict(sample)
+    print(f"\nLoaded model prediction for first test sample : {pred_loaded[0]}")
+
+Loaded model prediction for first test sample : 0
+
+Author:
+Sahil Bajare
+11-08-25
+
+
